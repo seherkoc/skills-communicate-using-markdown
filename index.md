@@ -1,4 +1,1 @@
-# Bigger Header
-## Less Bigger Header
-#### Less Less Bigger Header
-###### Less Less Less Bigger Header
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
